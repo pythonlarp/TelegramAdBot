@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/github/forks/pythonlarp/TelegramAdBot.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/pythonlarp/TelegramAdBot.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/github/issues/pythonlarp/TelegramAdBot.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/pythonlarp/TelegramAdBot.svg?style=for-the-badge"/>
 </p>
   
 ---------------------------------------
