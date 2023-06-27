@@ -14,10 +14,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Logo" width="120" height="120">
   </a>
   
-  <h2 align="center">Telegram AdBot</h3>
+  <h2 align="center">Telegram Advertisement Bot</h3>
 
   <p align="center">
-    Advertise all of your telegram services automatically, for free!
+    Advertise all of your Telegram services automatically, for free!
     <br />
     <br />
     <a href="https://github.com/pythonlarp/TelegramAdBot/issues">Report Bug</a>
@@ -39,7 +39,7 @@
 To use this bot it is fairly simple, all you need to do is:
 1) Create a Telegram channel and post your message.<br>
 2) Install Python if you don't already have it installed. Make sure you tick the "Add Python to PATH" checkbox on the first page of the installer. Go to https://www.python.org/downloads, then click "Download Python 3.11.4". 
-3) Once you have Python, click [here](link) to download the tool. Extract the zip file and open the folder it extracted to.  
+3) Once you have Python, click [here](https://github.com/pythonlarp/TelegramAdBot/archive/refs/heads/main.zip) to download the tool. Extract the zip file and open the folder it extracted to.  
 4) Open the "start.bat" file (or run `pip install -r requirements.txt` and `python main.py` in cmd) 
 5) It will ask you to log in to your Telegram account, afterward press `n` so you don't join groups (if you want to, put a list of groups to join in the groups.txt file), find the ID of the channel where you posted the message and type the same ID in the console.<br>
 3) The console will show you all the messages in that channel, find the ID of the message you want to mass forward and type it in.<br>
